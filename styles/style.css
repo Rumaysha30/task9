@@ -1,0 +1,72 @@
+
+body{
+    background-color: plum;
+}
+
+.outerdiv{
+    padding-top: 10px;
+    height: 1000px;
+    display: flex;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border: none;
+    border-bottom: 2px solid #ccc;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical ;
+    background-color: black;
+    
+  }
+  .div2{
+      background-color: black;
+      padding-left: 30px;
+      color: white;
+      width: 400px;
+      height: 625px;
+      text-decoration: blanchedalmond;
+  }
+  .div1{
+
+      padding-left: 200px;
+  }
+  .h2{
+      text-align: center;
+  }
+  
+  
+  input[type=submit] {
+    background-color: yellowgreen;
+    border-color: #b539cf !important;
+    color: #ffffff !important;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    shape-outside: ellipse();
+  }
+
+  .dropdown-toggle{
+      color: white;
+      padding-left: 350px;
+  }
+  .dropdown-menu{
+      box-sizing: border-box;
+      width: -50px;
+      tab-size: 0px;
+      padding-left: 350px;
+      border-radius: 50px;
+  }
+  .dropdown-item{
+      
+      size: 40px;
+  }
+
+  .div3{
+    padding-left: 350px;
+  }
+
+  
